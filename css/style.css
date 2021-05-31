@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap");
 * {
   box-sizing: border-box;
   margin: 0;
@@ -9,7 +10,10 @@ body {
 
 /* header */
 header h1 {
+  font-family: "Sigmar One", cursive;
   text-align: center;
+  margin-top: 50px;
+  font-size: 50px;
 }
 .container {
   width: 100%;
@@ -46,6 +50,7 @@ p {
   padding: 10px 10px;
   margin-top: 50px;
 }
+
 /* Menu heading color  */
 .sushi h2 {
   background-color: #e5d198;
