@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap");
 * {
   box-sizing: border-box;
   margin: 0;
@@ -10,10 +11,10 @@ body {
 
 /* header */
 header h1 {
-  font-family: "Sigmar One", cursive;
+  font-family: "Squada One", cursive;
   text-align: center;
   margin-top: 50px;
-  font-size: 50px;
+  font-size: 40px;
 }
 .container {
   width: 100%;
@@ -42,7 +43,7 @@ h2 {
   top: 0;
   right: 0;
   text-align: center;
-  font-family: sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 /* Default p  */
